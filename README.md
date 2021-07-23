@@ -1,4 +1,6 @@
-# ProjektGithub
+# worldcity
+
+STRONA STWORZONA NA WZÓR PORTFOLIO!
 
 Changelogs:
 
@@ -8,4 +10,8 @@ Changelogs:
 
 Upload kodu:
 
-+ 25.07.2021
++ 23.07.2021
+
+Aktualizacje kodu:
+
++ koniec wsparcia
