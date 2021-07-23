@@ -15,3 +15,10 @@ Upload kodu:
 Aktualizacje kodu:
 
 + koniec wsparcia
+
+Zdjęcia strony:
+
++ <img src="https://cdn.discordapp.com/attachments/863167283706200157/868217263537418250/unknown.png">
++ <img src="https://cdn.discordapp.com/attachments/863167283706200157/868217580542910464/unknown.png">
++ <img src="https://cdn.discordapp.com/attachments/863167283706200157/868217143269916672/unknown.png">
++ <img src="https://cdn.discordapp.com/attachments/863167283706200157/868217127784570920/unknown.png">
