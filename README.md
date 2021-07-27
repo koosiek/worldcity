@@ -12,6 +12,10 @@ Upload kodu:
 
 + 23.07.2021
 
+Autorzy kodu:
+
++ koosiek
+
 Aktualizacje kodu:
 
 + koniec wsparcia
